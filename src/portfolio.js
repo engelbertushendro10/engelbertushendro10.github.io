@@ -8,7 +8,7 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Engelbertus Hendro',
   role: 'Android Developer | Web Developer',
-  description: 'BErkomitmen untuk selalu mengembangkan aplikasi baik berbasis WEB maupun Android dan selalu mencoba berinovasi di bidang software.',
+  description: 'Berkomitmen untuk selalu mengembangkan aplikasi baik berbasis WEB maupun Android dan selalu mencoba berinovasi di bidang software.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/engelbertushendro102/',
