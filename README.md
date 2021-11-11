@@ -6,14 +6,14 @@ A clean and simple portfolio template built using React, if want a template buil
 
 
 
-[See Live](engelbertushendro10/cleanfolio)
+[See Live](engelbertushendro10.github.io)
 
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
+git clone https://github.com/engelbertushendro10.github.io
 cd cleanfolio
 ```
 
@@ -50,7 +50,7 @@ yarn start
 
 - Go to `package.json` file and replace -
 
-`"homepage": "engelbertushendro10/README.md"`
+`"homepage": "engelbertushendro10.github.io"`
 
 with `"homepage": "https://yourusername.github.io"`.
 

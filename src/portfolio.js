@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'engelbertushendro10',
+  homepage: 'tinorajen.netlify.app',
   title: 'JS.',
 }
 
