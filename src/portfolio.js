@@ -9,7 +9,7 @@ const about = {
   name: 'Engelbertus Hendro',
   role: 'Android Developer | Web Developer',
   description: 'Berkomitmen untuk selalu mengembangkan aplikasi baik berbasis WEB maupun Android dan selalu mencoba berinovasi di bidang software.',
-  resume: 'https://example.com',
+  resume: '#',
   social: {
     linkedin: 'https://www.linkedin.com/in/engelbertushendro102/',
     github: 'https://github.com/engelbertushendro10',
